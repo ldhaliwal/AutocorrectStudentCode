@@ -7,6 +7,8 @@ Name: Liliana Dhaliwal
 | March 14 | 12:55-1:50 | Kept working on the edit distanced algorithm, biggest change was that I made another class for a key value pair object to store the word and its distances. then i did a lot of (unsuccessful) research on how to sort that object. got some ideas but ran out of time before I could try to implement anything. |
 | March 18 |  11-11:55  |               got a better way to sort the key value objects using the Comparator class. then had to do some trouble shooting to then get the correct answers, which had to do with my edit distances being off because my algorithm was a little off with all the i-1 and j-1s. got all the test cases working. |
 | March 19 |   9-9:30   |                                                                                                                                                                                                                      tried implementing LCS to narrow down my dictionary, ended up doubling my runtime. no good. |
+| March 20 |            |                                                                                                                                                                                                                                                                                                                  |
+| March 21 |            |                                                                                                                                                                                                                                                                                  WHY isn't my arraylist CLEARING |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
